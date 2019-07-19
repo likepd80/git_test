@@ -1,0 +1,66 @@
+site,domain,Alexa_rank,SimilarWeb_rank,Type,Principal country
+Google,google.com,1 (Steady),1 (Steady),Internet services and products,United States U.S.
+YouTube,youtube.com,2 (Steady),3 (Steady),Video sharing,United States U.S.
+Facebook,facebook.com,3 (Steady),2 (Steady),Social network,United States U.S.
+Baidu,baidu.com,4 (Steady),4 (Increase11),Search engine,China China
+Wikipedia,wikipedia.org,5 (Steady),5 (Steady),Encyclopedia,United States U.S.
+Reddit,reddit.com,6 (Increase13),37 (Decrease6),Social news and entertainment,United States U.S.
+Yahoo!,yahoo.com,7 (Decrease1),7 (Decrease3),Portal and media,United States U.S.
+Tencent QQ,qq.com,8 (Increase1),11 (Increase27),Portal,China China
+Taobao,taobao.com,9 (Increase3),35 (Increase16),Online shopping,China China
+Google India,google.co.in,10 (Decrease3),6 (Increase4),Internet services and products,India India
+Amazon,amazon.com,11 (Decrease3),23 (Decrease12),E-commerce and cloud computing,United States U.S.
+Tmall,tmall.com,12 (Increase10),51 (Increase31),Online shopping,China China
+Twitter,twitter.com,13 (Increase1),10 (Decrease4),Social network,United States U.S.
+Sohu,sohu.com,14 (Increase3),84 (Increase120),Portal,China China
+Instagram,instagram.com,15 (Steady),20 (Decrease2),Photo sharing and social media,United States U.S.
+VK,vk.com,16 (Decrease3),21 (Decrease9),Social network,Russia Russia
+Windows Live,live.com,17 (Decrease6),19 (Decrease12),Software plus services,United States U.S.
+Jingdong Mall,jd.com,18 (Increase1),69,E-commerce,China China
+Sina Corp,sina.com.cn,19 (Decrease1),122 (Decrease12),Portal and instant messaging,China China
+Sina Weibo,weibo.com,20 (Increase4),97 (Decrease1),Social network,China China
+Yandex,yandex.ru,21 (Increase9),16 (Decrease2),Internet services and products,Russia Russia
+Haosou,360.cn,22 (Increase4),124 (Decrease39),Internet security and search engine,China China
+Google Japan,google.co.jp,23 (Steady),25 (Increase2),Internet services and products,Japan Japan
+Google UK,google.co.uk,24 (Decrease3),15 (Decrease7),Internet services and products,United Kingdom UK
+Tmall,list.tmall.com,25,N/A[notes 1],Online shopping,China China
+Google Russia,google.ru,26 (Increase2),27 (Decrease5),Internet services and products,Russia Russia
+Google Brazil,google.com.br,27 (Increase2),12 (Decrease3),Internet services and products,Brazil Brazil
+Netflix,netflix.com,28 (Increase15),33 (Decrease9),Streaming TV and movies,United States U.S.
+Google Germany,google.de,29 (Decrease9),22 (Decrease3),Internet services and products,Germany Germany
+Google Hong Kong,google.com.hk,30 (Increase16),123 (Increase15),Internet services and products,Hong Kong Hong Kong
+Pornhub,pornhub.com,31 (Increase20),14 (Increase16),Pornographic video sharing,Canada Canada
+Twitch,twitch.tv,32 (Increase40),88 (Decrease16),Streaming primarily on video games,United States U.S.
+Google France,google.fr,33 (Decrease8),28 (Decrease11),Internet services and products,France France
+LinkedIn,linkedin.com,34 (Decrease13),48 (Decrease4),Employment-oriented Social network,United States U.S.
+Yahoo! Japan,yahoo.co.jp,35 (Decrease12),34 (Decrease7),Portal,Japan Japan
+t.co,t.co,36 (Steady),105 (Decrease27),URL shortening for links on Twitter,United States U.S.
+CSDN,csdn.net,37 (Increase42),N/A[notes 1],Technology news and Internet forum,China China
+Microsoft,microsoft.com,38 (Increase1),68 (Decrease16),Software and technology,United States U.S.
+Bing,bing.com,39 (Decrease7),45 (Increase9),Search engine,United States U.S.
+Microsoft Office,office.com,40 (Increase18),48 (Increase6),Online office suite,United States U.S.
+eBay,ebay.com,41 (Decrease10),44 (Decrease12),Online auctions and shopping,United States U.S.
+Alipay,alipay.com,42 (Increase38),155,Payment system,China China
+XVideos,xvideos.com,43 (Increase74),8 (Increase15),Pornography,France France
+Google Italy,google.it,44 (Decrease10),30 (Decrease1),Internet services and products,Italy Italy
+Google Canada,google.ca,45 (Increase3),36 (Decrease11),Internet services and products,Canada Canada
+Mail.ru,mail.ru,46 (Increase8),32 (Decrease16),Portal,Russia Russia
+Odnoklassniki,ok.ru,47 (Decrease2),41 (Decrease15),Social Networking,Russia Russia
+Google Spain,google.es,48 (Decrease10),38 (Decrease1),Internet services and products,Spain Spain
+Tmall,pages.tmall.com,49,N/A[notes 1],Online shopping,China China
+MSN,msn.com,50 (Decrease17),33 (Increase1),Portal,United States U.S.
+Google Turkey,google.com.tr,59 (Increase6),26 (Decrease5),Internet services and products,Turkey Turkey
+Google Australia,google.com.au,63 (Increase3),49 (Decrease4),Internet services and products,Australia Australia
+WhatsApp,whatsapp.com,68 (Increase19),42 (Decrease1),Instant messaging,United States U.S.
+Spotify,spotify.com,69,98,Music streaming,United States U.S
+Google Poland,google.pl,72 (Increase12),40 (Decrease5),Internet services and products,Poland Poland
+Google Indonesia,google.co.id,75 (Increase6),17 (Decrease31),Internet services and products,Indonesia Indonesia
+xHamster,xhamster.com,76 (Increase4),39 (Increase8),Pornography,United States U.S.
+Google Argentina,google.com.ar,81 (Increase20),48 (Increase1),Internet services and products,Argentina Argentina
+XNXX,xnxx.com,91 (Increase177),9 (Increase30),Pornography,France France
+Google Thailand,google.co.th,96 (Decrease1),50 (Increase12),Internet services and products,Thailand Thailand
+Naver,Naver.com,116 (Decrease63),49 (Increase12),Portal,South Korea Korea
+Sogou,sogou.com,208,13,Search engine,China China
+Samsung,samsung.com,379 (Decrease31),43 (Increase27),Technology products,South Korea Korea
+AccuWeather,accuweather.com,396 (Decrease16),53 (Increase10),Weather forecasting,United States U.S.
+Google URL Shortener,goo.gl,714,47,URL shortening service,United States U.S.
